@@ -1,0 +1,3 @@
+<map id='mymap' bindregionchange='bindregionchange' show-location longitude='{{longitude}}' latitude='{{latitude}}' markers='{{markers}}' class="maps" scale='18' >
+  <cover-image class='position_img' bindtap='getlocation' src='../images/position.png'></cover-image>
+</map>
